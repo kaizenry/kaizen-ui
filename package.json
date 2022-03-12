@@ -1,0 +1,26 @@
+{
+  "name": "@kaizenmedia/ui",
+  "version": "0.0.1",
+  "description": "A nuxt 3 UI library, by Kaizen",
+  "main": "nuxt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "nuxt3": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaizenry/kaizen-ui.git"
+  },
+  "keywords": [
+    "Nuxt3",
+    "UI"
+  ],
+  "author": "Kaizen Media",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaizenry/kaizen-ui/issues"
+  },
+  "homepage": "https://github.com/kaizenry/kaizen-ui#readme"
+}
